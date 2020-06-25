@@ -10,3 +10,4 @@ Just a hobby project =) Greenhouse automation based on Raspberry Pi, Node-red an
 * Raspberry Pi
 * Automation Hat
 * [Arduino Soil Moisture Sensor](https://thepihut.com/blogs/raspberry-pi-tutorials/raspberry-pi-plant-pot-moisture-sensor-with-email-notification-tutorial)
+* 12V solenoid valve (closed when power off)
