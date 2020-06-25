@@ -1,5 +1,5 @@
 # greenhouse-automation
-Greenhouse automation based on Raspberry Pi and Node-red
+Just a hobby project =) Greenhouse automation based on Raspberry Pi, Node-red and Pimoroni Automation Hat
 
 
 ## Modules
