@@ -19,3 +19,17 @@ Just a hobby project =) Greenhouse automation based on Raspberry Pi, Node-red an
 * 12V solenoid valve (closed when power off)
 * Some USB charger
 * 240 AC - 12V DC converter (IKEA)
+
+
+## Setup
+### Rasperry Pi
+
+* Install Raspberry Pi OS
+* `sudo raspi-config` and enable ssh, set hostname to greenhouse, change password, maximise disk space and update raspi-config
+* `sudo aptitupde update && sudo aptitude safe-upgrade`
+* `sudo apt install build-essential git`
+* Install node and node-red - `bash <(curl -sL https://raw.githubusercontent.com/node-red/linux-installers/master/deb/update-nodejs-and-nodered)`
+* Make node-red start on boot `sudo systemctl enable nodered.service`
+* Reboot
+* Go to `http://greenhouse:1880`
+* Install node-red-contrib-automation-hat with `menu` > `settings` > `pallete` > `install`
