@@ -6,7 +6,7 @@ Just a hobby project =) Greenhouse automation based on Raspberry Pi, Node-red an
 * Water once every day if soil is too dry
 * Check water level in reservoir
 * SMS / email if reservoir needs refilling
-* Input to [Justini](https://github.com/eklem/justini)
+* Input to [Justini](https://github.com/eklem/justini) if reservoir needs refilling and filling statistics.
 
 ## Software and Modules
 * Raspberry Pi OS
