@@ -6,6 +6,7 @@ Just a hobby project =) Greenhouse automation based on Raspberry Pi, Node-red an
 * Water once every day if soil is too dry
 * Check water level in reservoir
 * SMS / email if reservoir needs refilling
+* Input to [Justini](https://github.com/eklem/justini)
 
 ## Software and Modules
 * Raspberry Pi OS
@@ -18,7 +19,9 @@ Just a hobby project =) Greenhouse automation based on Raspberry Pi, Node-red an
 * [Arduino Soil Moisture Sensor](https://thepihut.com/blogs/raspberry-pi-tutorials/raspberry-pi-plant-pot-moisture-sensor-with-email-notification-tutorial)
 * 12V solenoid valve (closed when power off)
 * Some USB charger
-* 240 AC - 12V DC converter (IKEA)
+* 240 AC - 12V DC converter (IKEA) to solenoid
+* Water hose
+* Hose nipples etc.
 
 
 ## Setup
